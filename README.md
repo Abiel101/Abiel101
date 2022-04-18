@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abiel. Front-End Developer
 - 🌱 Currently studying -> Javascript and working to improve my html and css
 - ✅ Available for work and collaborations 👍
-- 📧 Contact me: abiel.dev@gmail.com
+- 📧 Contact me: abiel.code.dev@gmail.com
 - ☁️ Website: https://www.abielortega.com
 
 > "Success is the product of daily habits 
