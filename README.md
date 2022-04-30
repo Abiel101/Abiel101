@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Abiel. Front-End Developer
-- 🌱 Currently studying -> Javascript and working to improve my html and css
+- 🌱 **Currently Working on:** Personal Portfolio, Website Template, and Improving my developer skills.
+- 📚 **Currently studying:** Javascript and working to improve my html and css
 - ✅ Available for work and collaborations 👍
 - 📧 Contact me: abiel.code.dev@gmail.com
 - ☁️ Website: https://www.abielortega.com
