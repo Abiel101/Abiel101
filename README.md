@@ -9,6 +9,21 @@
 > , not once-in-a-lifetime trans formations"
 > -James Clear
 
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,ps,git,github)](https://skillicons.dev)
+
+### Social Media
+<p align="center">
+  <a href="https://instagram.com/abiel.code.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://twitter.com/abielcodedev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <!---
 Abiel101/Abiel101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
