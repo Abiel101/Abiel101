@@ -10,10 +10,10 @@
 > -James Clear
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,ps,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,ps,git,github)](abielortega.com)
 
 ### Social Media
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/abiel.code.dev">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
