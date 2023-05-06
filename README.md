@@ -10,7 +10,7 @@
 > -James Clear
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,ps,git,github,webflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,node,figma,ps,git,github,webflow)](https://skillicons.dev)
 
 ### Social Media
 <p align="left">
