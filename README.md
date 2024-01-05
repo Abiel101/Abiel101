@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abiel. Front-End Developer
-- 🌱 **Currently Working on:** Personal Portfolio, Website Template, and Improving my developer skills.
-- 📚 **Currently studying:** Javascript and working to improve my html and css
+- 🌱 **Currently Working on:** Building projects with angular and firebase while learning
+- 📚 **Currently studying:** Angular and Firebase!
 - ✅ Available for work and collaborations 👍
 - 📧 Contact me: abiel.code.dev@gmail.com
 - ☁️ Website: https://abiel-code-dev.webflow.io
