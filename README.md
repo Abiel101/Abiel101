@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abiel Ortega</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate & aspiring Full Stack Developer</h3>
 <br />
 
 - 🌱 **Currently Working on:** Learning to love to code again
