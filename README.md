@@ -1,16 +1,16 @@
 - 👋 Hi, I’m Abiel. Front-End Developer
-- 🌱 **Currently Working on:** Building projects with angular and firebase while learning
-- 📚 **Currently studying:** Angular and Firebase!
+- 🌱 **Currently Working on:** Learning to love to code again
+- 📚 **Currently studying:** React & React Native
 - ✅ Available for work and collaborations 👍
 - 📧 Contact me: abiel.code.dev@gmail.com
 - ☁️ Website: https://abiel-code-dev.webflow.io
 
 > "Success is the product of daily habits 
-> , not once-in-a-lifetime trans formations"
+> , not once-in-a-lifetime transformations"
 > -James Clear
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwindcss,firebase,figma,ps,git,github,webflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwindcss,firebase,figma,git,github,webflow)](https://skillicons.dev)
 
 ### Social Media
 <p align="left">
