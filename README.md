@@ -13,7 +13,7 @@
 > -James Clear
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwindcss,firebase,figma,git,github,webflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,typescript,java,nodejs,mongodb,firebase,prisma,figma,git,github,webflow)](https://skillicons.dev)
 
 ### Social Media
 <p align="left">
